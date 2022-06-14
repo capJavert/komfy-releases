@@ -1,6 +1,6 @@
 {
   "name": "komfy-releases",
-  "version": "1.0.0-beta5",
+  "version": "1.0.0",
   "description": "Official release repository for Komfy Desktop app.",
   "main": "echo \"None\"",
   "scripts": {
