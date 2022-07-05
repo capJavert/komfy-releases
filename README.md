@@ -11,8 +11,8 @@ Stream your favorite video content from your phone directly to your PC or Mac. h
 Copy video links from your favorite apps like Youtube, Twitch or Vimeo and cast it directly to your PC or Mac.
 
 Get Komfy mobile app:
-iOS: https://apps.apple.com/us/app/komfy-couch-streaming/id1531587269
-Android: https://play.google.com/store/apps/details?id=app.komfy.get
+- iOS: https://apps.apple.com/us/app/komfy-couch-streaming/id1531587269
+- Android: https://play.google.com/store/apps/details?id=app.komfy.get
 
 Get Komfy desktop app for your PC or Mac: 
 https://get.komfy.app/#desktop
